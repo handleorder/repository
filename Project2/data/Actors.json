@@ -1,6 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"new_ii","classId":1,"equips":[1,1,2,3,0],"faceIndex":2,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ivan","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":1,"characterName":"new_ii","classId":2,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Osip","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":2,"characterName":"new_ii","classId":4,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"People4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sonya","nickname":"","note":"","profile":""}
-]
