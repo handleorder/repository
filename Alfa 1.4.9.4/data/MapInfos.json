@@ -11,7 +11,7 @@ null,
 {"id":9,"expanded":false,"name":"Палатка Мамы Будулая","order":5,"parentId":1,"scrollX":1977,"scrollY":1113},
 {"id":10,"expanded":true,"name":"Дом Ивана Иваныча","order":12,"parentId":12,"scrollX":1953,"scrollY":2727},
 {"id":11,"expanded":true,"name":"Дом Сидора","order":13,"parentId":12,"scrollX":865.3333333333334,"scrollY":2620},
-{"id":12,"expanded":true,"name":"История Софьи","order":11,"parentId":0,"scrollX":7599,"scrollY":8412},
+{"id":12,"expanded":true,"name":"История Софьи","order":11,"parentId":0,"scrollX":7591,"scrollY":8164},
 {"id":13,"expanded":true,"name":"Бордель","order":4,"parentId":1,"scrollX":1977,"scrollY":1113},
 {"id":14,"expanded":true,"name":"Бордель","order":10,"parentId":4,"scrollX":1947,"scrollY":1398},
 null,
@@ -20,5 +20,5 @@ null,
 null,
 null,
 null,
-{"id":21,"expanded":false,"name":"Выбор персонажа Ввод","order":16,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":21,"expanded":false,"name":"Выбор персонажа Ввод","order":16,"parentId":0,"scrollX":787,"scrollY":479}
 ]
