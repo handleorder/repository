@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Улица Ивана","order":1,"parentId":0,"scrollX":779.5,"scrollY":481},
+{"id":2,"expanded":false,"name":"Дом Сидора","order":3,"parentId":1,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":3,"expanded":false,"name":"Выбор Персонажа Ввод","order":6,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":false,"name":"Дом Ивана","order":2,"parentId":1,"scrollX":787.5,"scrollY":479},
+{"id":5,"expanded":false,"name":"Бордель","order":4,"parentId":1,"scrollX":787.5,"scrollY":479},
+{"id":6,"expanded":false,"name":"Палатка","order":5,"parentId":1,"scrollX":787.5,"scrollY":479},
+{"id":7,"expanded":false,"name":"Сохранение","order":7,"parentId":0,"scrollX":787.5,"scrollY":479},
+{"id":8,"expanded":false,"name":"Тестовый Иван","order":8,"parentId":0,"scrollX":832,"scrollY":640}
+]
